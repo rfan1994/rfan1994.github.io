@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate"
   location         : "Bloomington, IN"
-  employer         : "Department of Economics, Indiana University"
+  employer         : "Indiana University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "fanrong@iu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -191,17 +191,17 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
   # _pages
   - scope:
       path: ""
