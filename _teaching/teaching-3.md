@@ -9,5 +9,5 @@ Semester: Spring 2021, Spring 2020
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Macroeconomics II
+E521: Macroeconomics II
 ======
