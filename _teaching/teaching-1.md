@@ -9,5 +9,5 @@ Semester: Fall 2020, Fall 2019, Spring 2019, Fall 2018
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Intro to Macroeconomics
+E202: Intro to Macroeconomics
 ======
