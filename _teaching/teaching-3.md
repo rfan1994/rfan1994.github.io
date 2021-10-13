@@ -1,13 +1,10 @@
 ---
-title: "Teaching experience 3"
+title: "E521: Macroeconomics II"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/3
 venue: "Indiana University, Department of Economics"
-Semester: Spring 2021, Spring 2020
+date: 2020-2022
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-E521: Macroeconomics II
-======
+Semester: Spring 2021, Spring 2020
