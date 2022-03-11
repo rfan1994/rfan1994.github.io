@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Rong Fan"
 title_separator          : "-"
-name                     : &name "Rong Fan"
-description              : &description "personal description"
+name                     : "Rong Fan"
+description              : "personal description"
 url                      : https://rfan1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rfan1994/rfan1994.github.io"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rfan1994"
+  github           : "rfan1994"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fan-rong-8857b9115/"
+  linkedin         : "fan-rong-8857b9115"
   orcid            : 
   pinterest        :
   soundcloud       :
