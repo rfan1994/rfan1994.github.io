@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-2
 venue: "Southern Economic Association"
-date: "November 19-21, 2022"
+date: "2022-11-19"
 location: "Montego Bay, Jamaica"
 ---

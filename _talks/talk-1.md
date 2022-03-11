@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-1
 venue: "Eastern Economic Association"
-date: "May 4–7, 2022"
+date: "2022-05-04"
 location: "Montego Bay, Jamaica"
 ---
