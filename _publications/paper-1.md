@@ -1,9 +1,9 @@
 ---
-title: "Re-examining the wage premium level of public sectors in recent China"
+title: "Jobless Recovery and Skill Mismatch"
 collection: publications
-permalink: /publication/1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Economic Perspectives'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publication/paper-1
+excerpt: 'In a business cycle model with search and matching frictions, I explain the slow jobless recovery to be the result of a mismatch between worker skill and firm technology. The mismatch penalty increases the unemployment level and volatility, mainly by increasing the probability of matching failure. The impact of mismatch penalty is more significant when skill variance is higher and when technology is more skill-complementary. The mismatch also decreases the labor force participation rate. '
+date: 2022-03-11
+venue: 'Ongoing project'
+paperurl: 'http://academicpages.github.io/files/Mismatch.pdf'
 ---
