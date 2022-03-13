@@ -6,4 +6,4 @@ excerpt: 'Will automation ultimately displace or complement skilled and unskille
 date: 2022-03-11
 paperurl: 'http://rfan1994.github.io/files/Growth Model.pdf'
 ---
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://rfan1994.github.io/files/Growth Model.pdf)
