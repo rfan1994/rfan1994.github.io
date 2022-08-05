@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "jGo3kb23iOjmA4vayihvDIEf12rYUv1gAzBesoRF-IM"
+google_site_verification : google-site-verification=jGo3kb23iOjmA4vayihvDIEf12rYUv1gAzBesoRF-IM
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
