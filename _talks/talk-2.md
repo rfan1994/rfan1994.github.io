@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/talk-2
 venue: "Southern Economic Association"
 date: "2022-11-19"
-location: "Montego Bay, Florida"
+location: "Fort Lauderdale, Florida"
 ---
