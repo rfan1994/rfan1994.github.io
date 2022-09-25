@@ -23,4 +23,4 @@ I am currently on the job market for 2022-2023.
 
 * Email: fanrong@iu.edu
 * Phone: +1 (812) 955-8920
-* Address: Wylie Hall 204, 100 S. Woodlawn, Bloomington, IN 47405
+* Address: Department of Economics, Indiana University Bloomington, Wylie Hall 204, Bloomington, IN 47405
