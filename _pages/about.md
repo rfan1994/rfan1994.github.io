@@ -15,9 +15,10 @@ I am currently on the job market for 2022-2023.
 
 **RESEARCH INTERESTS**
 
-* Macroeconomics
+* Economic Growth
 * Labor Economics
-* Monetary and Fiscal Policy
+* Monetary Policy
+* Macroeconomics
 
 **CONTACT INFORMATION**
 
