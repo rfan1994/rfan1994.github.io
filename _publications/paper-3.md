@@ -6,4 +6,3 @@ excerpt: ''
 date: 2022-09-01
 paperurl: ''
 ---
-[Download paper here](http://rfan1994.github.io/files/Growth.pdf)
